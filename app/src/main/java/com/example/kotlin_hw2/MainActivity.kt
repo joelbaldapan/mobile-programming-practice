@@ -52,7 +52,7 @@ fun hw2hw3Tests() {
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // NAME: Joel Angelo Baldapan        hw4Problem5()
+        // NAME: Joel Angelo Baldapan
         // STUDENT NUMBER: 26170176
 
         // HW04 TEST CASES
